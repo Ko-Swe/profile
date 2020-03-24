@@ -13,5 +13,5 @@ And these're all the icons which can be used.
 
 ```html
 <!-- usage -->
-<i class="iconfont icon-name"></i?
+<i class="iconfont icon-name"></i>
 ```
