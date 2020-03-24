@@ -15,3 +15,11 @@ And these're all the icons which can be used.
 <!-- usage -->
 <i class="iconfont icon-name"></i>
 ```
+
+## Support
+
+如果可以的话，你可以在[爱发电](https://afdian.net/@Eltrac)上赞助我。
+
+---
+
+Copyright &copy; 2020 Eltrac, released under MIT License. 
