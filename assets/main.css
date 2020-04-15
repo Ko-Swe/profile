@@ -1,0 +1,47 @@
+@charset 'utf-8';
+
+body {
+	margin: 0;
+	background: #fff
+}
+
+* {
+	box-sizing: border-box
+}
+
+.container {
+	max-width: 600px;
+	margin: 50px auto;
+	padding: 0 10px
+}
+
+.container img {
+	display: block;
+	margin: 5px auto
+}
+
+.ut-dialog {
+	border: 8px solid #fff;
+	color: #fff;
+	padding: 20px;
+	min-height: 200px;
+	font-size: 1.2em;
+	font-family: 'Press Start 2P', cursive;
+}
+
+img {
+	-webkit-user-drag: none;
+}
+
+h2 {
+	border: none!important
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Chrome/Safari/Opera */
+    -khtml-user-select: none; /* Konqueror */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+}
